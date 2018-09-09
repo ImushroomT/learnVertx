@@ -1,0 +1,15 @@
+*.iml
+*.class
+target/
+bin/
+.settings/
+.idea/
+.project
+.classpath
+.metadata/
+MANIFEST.MF
+.gradle
+gradle/
+.gradle/
+build/
+out/
